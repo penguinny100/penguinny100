@@ -3,7 +3,7 @@
 ### Software Engineering @ McGill University · AI · Backend · Cloud
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bengreenspan">
+  <a href="https://www.linkedin.com/in/ben-greenspan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bengreenspan100@gmail.com">
@@ -135,7 +135,7 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/bengreenspan">
+  <a href="https://www.linkedin.com/in/ben-greenspan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bengreenspan100@gmail.com">
